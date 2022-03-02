@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roystone-Were](https://github.com/Roystone-Were)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **roystonewere@gmail.com**
 
