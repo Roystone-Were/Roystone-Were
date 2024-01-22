@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Unifeed Codewell Project](https://github.com/Roystone-Were/UnifeedChallenge)
 
-- 🌱 I’m currently learning **Javascript,React.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roystone-Were](https://github.com/Roystone-Were)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, Python**
 
 - 📫 How to reach me **roystonewere@gmail.com**
 
