@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roystone-were&label=Profile%20views&color=0e75b6&style=flat" alt="roystone-were" /> </p>
 
-- 🔭 I’m currently working on [Unifeed Codewell Project](https://github.com/Roystone-Were/UnifeedChallenge)
+- 🔭 I’m currently working on [Unifeed Codewell Project](https://github.com/Roystone-Were/python_CS50)
 
 - 🌱 I’m currently learning **Python**
 
